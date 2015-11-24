@@ -5,8 +5,8 @@ When I am working on a push system(with up to 300 million TCP connections per se
 help others if some of you running into the same problem.
 
 ##First of all:
-```
 Make sure your server has enough memory. And then change the server ulimit parameters to :
+```
 core file size          (blocks, -c) 0
 data seg size           (kbytes, -d) unlimited
 scheduling priority             (-e) 0
